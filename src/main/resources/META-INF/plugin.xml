@@ -1,0 +1,21 @@
+<idea-plugin>
+    <id>com.github.vbychkovskyi.hello-world-idea-plugin</id>
+    <name>IDEA Hello World</name>
+    <vendor email="vbychkovskyy@gmail.com" url="https://github.com/vbychkovskyi">vbychkovskyi</vendor>
+
+    <description><![CDATA[
+    Enter short description for your plugin here.<br>
+    <em>most HTML tags may be used</em>
+    ]]></description>
+
+
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+
+    </extensions>
+
+    <actions>
+
+    </actions>
+</idea-plugin>
